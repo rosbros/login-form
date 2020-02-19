@@ -1,0 +1,101 @@
+.container {
+ border: 5px solid black;
+ padding: 3px;
+ border-radius: 20px;
+ height: 500px;
+ width: 1000px;
+ top: 0%;
+ left: 10%;
+ position: absolute;
+}
+p {
+ position: absolute;
+ height: 150px;
+ width: 300px;
+ top: 5%;
+ left: 40%;
+ font-size: 30px;
+ }
+
+p1{
+ position: absolute;
+ height: 150px;
+ width: 500px;
+ top: 15%;
+ left: 40%;
+ font-size: 30px;
+ text-decoration: underline;
+ }
+
+p2{
+ position: absolute;
+ height: 150px;
+ width: 600px;
+ top: 30%;
+ left: 30%;
+ font-size: 30px;
+ text-decoration: underline;
+ }
+
+p3{
+ position: absolute;
+ height: 100px;
+ width: 250px;
+ top: 50%;
+ left: 25%;
+ font-size: 25px;
+ }
+
+.fullname{
+ position: absolute;
+ height: 20px;
+ width: 200px;
+ top: 50%;
+ left: 34%;}
+
+p4{
+ position: absolute;
+ height: 100px;
+ width: 250px;
+ top: 55%;
+ left: 25%;
+ font-size: 25px;}
+
+.password{
+ position: absolute;
+ height: 20px;
+ width: 200px;
+ top: 55%;
+ left: 33%;}
+
+p5{
+ position: absolute;
+ height: 100px;
+ width: 250px;
+ top: 60%;
+ left: 36%;
+ font-size: 23px;
+ text-decoration: underline;}
+
+p6{
+ position: absolute;
+ top: 65%;
+ left: 56%;
+ font-size: 20px;}
+.logo{
+ position: absolute;
+ left: 32%;
+ top: 5%;
+ width: 100px;
+ height: 100px;
+ }
+
+.submit{
+ position: absolute;
+ top: 60%;
+ left: 25%;}
+
+.clear{
+ position: absolute;
+ top: 60%;
+ left: 30%;}

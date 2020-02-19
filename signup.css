@@ -1,0 +1,148 @@
+p9{
+ position: absolute;
+ left: 43%;
+ top: 10%;
+ font-size: 25px;
+ text-decoration: underline;
+ }
+
+p{
+ position: absolute;
+ top: 13%;
+ left: 20%;
+ font-size: 25px;}
+
+.firstname{
+ position: absolute;
+ top: 17%;
+ left: 28.5%;
+ width: 200px;
+ height: 20px;}
+
+p1{
+ position: absolute;
+ top: 23%;
+ left: 20%;
+ font-size: 25px;}
+
+.middlename{
+ position: absolute;
+ top: 23.5%;
+ left: 30.5%;
+ width: 200px;
+ height: 20px;}
+
+p2{
+ position: absolute;
+ top: 29%;
+ left: 20%;
+ font-size: 25px;}
+
+.lastname{
+ position: absolute;
+ top: 29%;
+ left: 28.5%;
+ width: 200px;
+ height: 20px;}
+
+p3{
+ position: absolute;
+ top: 35%;
+ left: 20%;
+ font-size: 25px;}
+
+.email{
+ position: absolute;
+ top: 35%;
+ left: 31.5%;
+ height: 20px;
+ width: 200px;
+ }
+
+p4{
+ position: absolute;
+ top: 40%;
+ left: 20%;
+ font-size: 25px;}
+
+.studentnumber{
+ position: absolute;
+ top: 40%;
+ left: 33%;
+ height: 20px;
+ width: 200px;
+ }
+
+p5{
+ position: absolute;
+ top: 45%;
+ left: 20%;
+ font-size: 25px;
+ }
+
+.password{
+ position: absolute;
+ top: 45.5%;
+ left: 28%;
+ height: 20px;
+ width: 200px;}
+
+p6{
+ position: absolute;
+ top: 52%;
+ left: 20%;
+ font-size: 25px;}
+
+.retypepassword{
+ position: absolute;
+ top: 52.5%;
+ left: 33.5%;
+ height: 20px;
+ width: 200px;
+ }
+
+p7{
+ position: absolute;
+ top: 60%;
+ left: 20%;
+ font-size: 25px;
+ }
+
+.male{
+ position: absolute;
+ top: 61.5%;
+ left: 23.8%;
+ }
+
+p8{
+ position: absolute;
+ top: 65%;
+ left: 20%;
+ font-size: 25px;}
+
+.female{
+ position: absolute;
+ top: 66.5%;
+ left: 25%;}
+
+.submit{
+ position: absolute;
+ top: 70%;
+ left: 35%;}
+
+.clear{
+ position: absolute;
+ top: 70%;
+ left: 40%;
+ }
+
+.container {
+ border: 5px solid black;
+ padding: 3px;
+ border-radius: 20px;
+ height: 500px;
+ width: 1000px;
+ top: 0%;
+ left: 10%;
+ position: absolute;
+}
